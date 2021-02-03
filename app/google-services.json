@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "772084318988",
+    "firebase_url": "https://messagingapp-6c371.firebaseio.com",
+    "project_id": "messagingapp-6c371",
+    "storage_bucket": "messagingapp-6c371.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:772084318988:android:f91ef80e4ea8952c",
+        "android_client_info": {
+          "package_name": "edu.uga.dawgmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "772084318988-sbrdnvhv8c9l29llknq75objt5h9vst0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAALZm7GVLHb-N08P9SgLdx65KpxrtUCys"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "772084318988-sbrdnvhv8c9l29llknq75objt5h9vst0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
